@@ -1,0 +1,55 @@
+
+   [
+      {
+        "id": 1,
+        "segment_name": "Hospitality",
+        "estate_title": "Cozy Beachfront Cottage",
+        "image": "https://i.ibb.co/syW8nr2/wide-shot-brown-house-sandy-seashore-by-sea-surrounded-with-rocks-trees.jpg",
+        "description": "Escape to this charming beachfront cottage for the ultimate seaside getaway. Enjoy breathtaking ocean views, modern amenities, and direct beach access.",
+        "price": "$200/night",
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "Malibu, California",
+        "facilities": ["Beach access", "Ocean view", "Outdoor patio", "Wi-Fi"],
+        "view_property_button": "https://example.com/beachfront_cottage"
+      },
+      {
+        "id": 2,
+        "segment_name": "Hospitality",
+        "estate_title": "Luxury Mountain Lodge",
+        "image": "https://i.ibb.co/n0scbvG/2151263578.jpg",
+        "description": "Indulge in luxury at this stunning mountain lodge. Featuring panoramic mountain views, a private hot tub, and upscale furnishings, this retreat promises an unforgettable experience.",
+        "price": "$500/night",
+        "status": "rent",
+        "area": "2500 sq ft",
+        "location": "Aspen, Colorado",
+        "facilities": ["Mountain view", "Hot tub", "Fireplace", "Gourmet kitchen"],
+        "view_property_button": "https://example.com/mountain_lodge"
+      },
+      {
+        "id": 3,
+        "segment_name": "Hospitality",
+        "estate_title": "Seaside Resort Villa",
+        "image": "https://i.ibb.co/CtXVRgB/2151302626.jpg",
+        "description": "Discover the epitome of luxury at this exquisite seaside resort villa. With private beach access, infinity pool, and lush tropical gardens, relaxation awaits.",
+        "price": "$1000/night",
+        "status": "rent",
+        "area": "4000 sq ft",
+        "location": "Maui, Hawaii",
+        "facilities": ["Private beach", "Infinity pool", "Tropical gardens", "Gourmet dining"],
+        "view_property_button": "https://example.com/seaside_resort_villa"
+      },
+      {
+        "id": 4,
+        "segment_name": "Hospitality",
+        "estate_title": "Charming Countryside Inn",
+        "image": "https://i.ibb.co/R2DsWR2/wooden-arbors-trees-mountains.jpg",
+        "description": "Experience rustic charm at this quaint countryside inn. Nestled amidst rolling hills and picturesque landscapes, enjoy cozy accommodations and warm hospitality.",
+        "price": "$150/night",
+        "status": "rent",
+        "area": "1800 sq ft",
+        "location": "Cotswolds, England",
+        "facilities": ["Scenic views", "Garden terrace", "Traditional pub", "Free breakfast"],
+        "view_property_button": "https://example.com/countryside_inn"
+      }
+    ]
